@@ -1,0 +1,8 @@
+{
+  "db": {
+    "database": "trader",
+    "username": "trader",
+    "password": "password100",
+    "host": "localhost"
+  }
+}
